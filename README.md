@@ -3,35 +3,42 @@
 </p>
 
 ```console
-$ whoami
-José Ramírez · infrastructure analyst → cloud & defensive security
+$ ./estado --resumen
+rol            analista de infraestructura
+foco           ciberseguridad defensiva · cloud (Azure, AWS) · infraestructura
+trabajo diario Microsoft 365 · Entra ID · Intune · NOC · gestión de cambios (RFC)
+formación      ITLA
+idiomas        español · inglés técnico (en estudio)
+laboratorios   5 planificados · se publican al cerrar cada nivel de la ruta
 ```
-
-## > quién soy
-
-Analista de infraestructura. Trabajo con Microsoft 365, Entra ID, Intune y operaciones NOC (monitoreo y gestión de cambios con RFC). Estudio en ITLA.
-Voy hacia **ciberseguridad con enfoque defensivo**, apoyada en **cloud (Azure y AWS)** y una base sólida de **infraestructura**.
-
-## > en qué trabajo
-
-| Área | Estado |
-| --- | --- |
-| Microsoft 365, Entra ID, Intune | Trabajo diario |
-| Infraestructura: redes, Windows y Linux | En práctica |
-| Ciberseguridad: detección, hardening, logs | En estudio, con laboratorios |
-| Cloud: Azure y AWS | En estudio |
-| Soporte técnico: hardware, particiones, memoria, diagnóstico | En práctica |
-| Inglés técnico | En estudio |
 
 ## > ruta de aprendizaje
 
-Mi plan de estudio está publicado y abierto: **[Ruta 20/80](https://jose-m-ramir3z.github.io/ruta-2080/)**.
-Siete módulos y 24 niveles, con el 20 % que destraba el resto de cada tecnología, exámenes por nivel y repaso espaciado.
+Mi plan de estudio es abierto: **[Ruta 20/80](https://jose-m-ramir3z.github.io/ruta-2080/)**.
+Cada módulo empieza por el 20 % que destraba el resto y sube hasta especialista. Cada nivel cierra con puertas de salida demostrables y un examen de selección múltiple.
+
+<p align="center">
+  <img src="assets/ruta-stats.svg" alt="Plan de estudio: 7 módulos, 24 niveles, 374 pasos, 347 preguntas de examen y 2180 horas estimadas" width="100%">
+</p>
+
+<sub>Cifras del plan, no de logros. Las horas son estimaciones propias.</sub>
+
+## > mapa de habilidades
+
+| Módulo | Dónde estoy | Hacia dónde voy |
+| --- | --- | --- |
+| Microsoft 365, Entra ID, Intune | Trabajo diario | Identidad híbrida y gestión de endpoints a escala |
+| Infraestructura (redes, Windows, Linux) | En práctica | Administración de servidores y automatización |
+| Ciberseguridad | En estudio, con laboratorios | Detección, hardening y respuesta a incidentes |
+| Cloud (Azure y AWS) | En estudio | Diseño seguro y gobierno |
+| Soporte técnico (hardware, arranque, memoria) | En práctica | Causa raíz y automatización |
+| Inglés técnico | En estudio | Comunicación profesional (B2 a C1) |
+| Bases de datos y desarrollo | Nivel fundamental | Leer, automatizar y hablar con desarrollo |
 
 ## > laboratorios
 
-Cada laboratorio vive en su propio repositorio, con la misma estructura: objetivo, entorno, pasos, evidencia, mitigación y lecciones.
-Los que siguen son los **planificados** para el primer nivel de la ruta; los marco al publicarlos.
+Un repositorio por laboratorio, con la misma estructura: objetivo, entorno, pasos, evidencia, mitigación y lecciones.
+Los siguientes están **planificados** para el primer nivel; los marco al publicarlos.
 
 | Laboratorio | Módulo | Estado |
 | --- | --- | --- |
@@ -39,7 +46,7 @@ Los que siguen son los **planificados** para el primer nivel de la ruta; los mar
 | Captura con Wireshark de una consulta DNS y una petición HTTP | Infraestructura | Planificado |
 | Inspección de un Windows de laboratorio con PowerShell | Ciberseguridad | Planificado |
 | Mapa de memoria virtual de Windows con RAMMap | Soporte técnico | Planificado |
-| Laboratorio de una VM en Azure y AWS con control de costos | Cloud | Planificado |
+| Una VM en Azure y AWS con control de costos | Cloud | Planificado |
 
 ## > certificaciones
 

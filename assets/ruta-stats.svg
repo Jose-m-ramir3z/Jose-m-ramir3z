@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="190" viewBox="0 0 1280 190" role="img" aria-label="Plan de estudio: 7 módulos, 24 niveles, 374 pasos, 347 preguntas de examen y 2180 horas estimadas">
+  <defs>
+    <pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#121b26" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="190" fill="#0a0e13"/>
+  <rect width="1280" height="190" fill="url(#g)"/>
+  <rect x="24.5" y="12.5" width="1231" height="165" rx="8" fill="none" stroke="#1f2b38"/>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace">
+    <text x="48" y="48" font-size="18" fill="#6b7c8f"><tspan fill="#3ddc97">$</tspan> ./ruta --plan</text>
+    <text x="1232" y="48" font-size="16" fill="#6b7c8f" text-anchor="end">plan de estudio, no logros</text>
+    <path d="M25 64.5H1255" stroke="#1f2b38"/>
+    <g text-anchor="start">
+      <text x="48" y="122" font-size="52" font-weight="700" fill="#e6edf3">7</text>
+      <text x="48" y="152" font-size="18" fill="#8b9aab">módulos</text>
+      <path d="M262.5 84V160" stroke="#1f2b38"/>
+      <text x="286" y="122" font-size="52" font-weight="700" fill="#e6edf3">24</text>
+      <text x="286" y="152" font-size="18" fill="#8b9aab">niveles</text>
+      <path d="M500.5 84V160" stroke="#1f2b38"/>
+      <text x="524" y="122" font-size="52" font-weight="700" fill="#e6edf3">374</text>
+      <text x="524" y="152" font-size="18" fill="#8b9aab">pasos</text>
+      <path d="M738.5 84V160" stroke="#1f2b38"/>
+      <text x="762" y="122" font-size="52" font-weight="700" fill="#e6edf3">347</text>
+      <text x="762" y="152" font-size="18" fill="#8b9aab">preguntas de examen</text>
+      <path d="M1016.5 84V160" stroke="#1f2b38"/>
+      <text x="1040" y="122" font-size="52" font-weight="700" fill="#5cc8ff">2 180</text>
+      <text x="1040" y="152" font-size="18" fill="#8b9aab">horas estimadas</text>
+    </g>
+  </g>
+</svg>
