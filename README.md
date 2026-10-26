@@ -18,7 +18,7 @@ Mi plan de estudio es abierto: **[Ruta 20/80](https://jose-m-ramir3z.github.io/r
 Cada módulo empieza por el 20 % que destraba el resto y sube hasta especialista. Cada nivel cierra con puertas de salida demostrables y un examen de selección múltiple.
 
 <p align="center">
-  <img src="assets/ruta-stats.svg" alt="Plan de estudio: 7 módulos, 24 niveles, 374 pasos, 347 preguntas de examen y 2180 horas estimadas" width="100%">
+  <img src="assets/ruta-stats.svg" alt="Plan de estudio: 7 módulos, 24 niveles, 394 pasos, 360 preguntas de examen y 2208 horas estimadas" width="100%">
 </p>
 
 <sub>Cifras del plan, no de logros. Las horas son estimaciones propias.</sub>
