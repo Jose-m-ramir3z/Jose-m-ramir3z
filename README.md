@@ -18,7 +18,7 @@ Mi plan de estudio es abierto: **[Ruta 20/80](https://jose-m-ramir3z.github.io/r
 Cada módulo empieza por el 20 % que destraba el resto y sube hasta especialista. Cada nivel cierra con puertas de salida demostrables y un examen de selección múltiple.
 
 <p align="center">
-  <img src="assets/ruta-stats.svg" alt="Plan de estudio: 7 módulos, 24 niveles, 394 pasos, 360 preguntas de examen y 2208 horas estimadas" width="100%">
+  <img src="assets/ruta-stats.svg" alt="Plan de estudio: 7 módulos, 24 niveles, 424 pasos, 378 preguntas de examen y 2248 horas estimadas" width="100%">
 </p>
 
 <sub>Cifras del plan, no de logros. Las horas son estimaciones propias.</sub>
@@ -28,7 +28,7 @@ Cada módulo empieza por el 20 % que destraba el resto y sube hasta especialista
 | Módulo | Dónde estoy | Hacia dónde voy |
 | --- | --- | --- |
 | Microsoft 365, Entra ID, Intune | Trabajo diario | Identidad híbrida y gestión de endpoints a escala |
-| Infraestructura (redes, Windows, Linux) | En práctica | Administración de servidores y automatización |
+| Infraestructura (redes, Windows, Linux) | En práctica | Administración de servidores, shell profesional (PowerShell y bash) y automatización |
 | Ciberseguridad | En estudio, con laboratorios | Detección, hardening y respuesta a incidentes |
 | Cloud (Azure y AWS) | En estudio | Diseño seguro y gobierno |
 | Soporte técnico (hardware, arranque, memoria) | En práctica | Causa raíz y automatización |
